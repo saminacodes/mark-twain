@@ -27,9 +27,7 @@ Your technical writing co-pilot.
 
 ## Customizing writing style
 
-Each skill file contains a **Writing Style & Guidelines** section with placeholder comments. Replace the comments with your own voice, tone, audience, and formatting rules.
-
-The placeholders use HTML comment syntax (`<!-- ... -->`), so they have no effect until you fill them in.
+Each skill file contains a **Writing Style & Guidelines** section with placeholder comments. Replace the comments with your own voice, tone, audience, and formatting rules. (Placeholders use HTML comment syntax (`<!-- ... -->`), so they have no effect until you fill them in.)
 
 ## Credits
 
