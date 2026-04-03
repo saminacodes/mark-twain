@@ -1,6 +1,6 @@
 # mark-tw(ai)n
 
-Claude Code skills for technical writing. A collection of slash commands for writing and editing documentation, changelogs, tutorials, and more.
+Your technical writing co-pilot.
 
 ## Skills
 
