@@ -25,9 +25,13 @@ Your technical writing co-pilot.
 1. Copy this repo's `.claude/` directory into your project root (or [symlink it](https://www.man7.org/linux/man-pages/man1/ln.1.html)).
 2. Open the project in Claude Code — skills are available immediately as slash commands.
 
-## Customizing writing style
+## Customize writing style
 
-Each skill file contains a **Writing Style & Guidelines** section with placeholder comments. Replace the comments with your own voice, tone, audience, and formatting rules. (Placeholders use HTML comment syntax (`<!-- ... -->`), so they have no effect until you fill them in.)
+Each skill file contains a **Writing Style & Guidelines** section with placeholder comments. 
+
+Replace the comments with your own voice, tone, audience, and formatting rules. 
+
+Placeholders use HTML comment syntax (`<!-- ... -->`), so they have no effect until you fill them in.
 
 ## Credits
 
